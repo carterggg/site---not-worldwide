@@ -96,9 +96,9 @@ h6 {
 .btn-primary:active,
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
-    border-color: #f6bf01;
+    border-color: red;
     color: #fff;
-    background-color: #fec503;
+    background-color: red;
 }
 
 .btn-primary:active,
@@ -122,25 +122,25 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-    border-color: #fed136;
-    background-color: #fed136;
+    border-color: red;
+    background-color: red;
 }
 
 .btn-primary .badge {
-    color: #fed136;
+    color: red;
     background-color: #fff;
 }
 
 .btn-xl {
     padding: 20px 40px;
-    border-color: #fed136;
+    border-color: red;
     border-radius: 3px;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 18px;
     font-weight: 700;
     color: #fff;
-    background-color: #fed136;
+    background-color: red;
 }
 
 .btn-xl:hover,
@@ -148,9 +148,9 @@ fieldset[disabled] .btn-primary.active {
 .btn-xl:active,
 .btn-xl.active,
 .open .dropdown-toggle.btn-xl {
-    border-color: #f6bf01;
+    border-color: darkred;
     color: #fff;
-    background-color: #fec503;
+    background-color: darkred;
 }
 
 .btn-xl:active,
@@ -199,7 +199,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-brand:active,
 .navbar-default .navbar-brand.active {
-    color: #fec503;
+    color: red;
 }
 
 .navbar-default .navbar-collapse {
@@ -237,8 +237,8 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-nav>.active>a {
     border-radius: 0;
-    color: red;
-    background-color: #fed136;
+    color: white;
+    background-color: red;
 }
 
 .navbar-default .navbar-nav>.active>a:hover,
@@ -270,7 +270,7 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #222;
+        background-color: white;
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
@@ -513,7 +513,7 @@ section h3.section-subheading {
     border-radius: 100%;
     text-align: center;
     color: #fff;
-    background-color: #fed136;
+    background-color: red;
 }
 
 .timeline>li .timeline-image h4 {
